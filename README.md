@@ -24,5 +24,9 @@
 - `We are not responsible for any damages this software may cause after being acquired.`
 - `This software was made for personal education and sandbox testing. (if its illegal)`
 
+# TO DO
+
+- `Update hCaptcha Version In hfuck/settings.json If They Update`
+
 # Showcase 
 <img align="center" src="https://media.discordapp.net/attachments/1041016926828245074/1043028051891589120/image.png?width=485&height=208" /> 
