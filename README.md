@@ -1,6 +1,6 @@
-## BetterHcaptchaScraper
+# BetterHcaptchaScraper
 
- > 🎲 Scraper To Scrape hCaptcha Images And Sort It
+- 🎲 Scraper To Scrape hCaptcha Images And Sort It
 
 # Features :
 
@@ -14,8 +14,8 @@
 
 # Usage : 
 
-> Put Your `http/https` Proxies In `input/proxies.txt`
-> Then Run `main.py`
+- Put Your `http/https` Proxies In `input/proxies.txt`
+- Then Run `main.py`
 
 # Disclaimer 
 
